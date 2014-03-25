@@ -1,0 +1,3 @@
+storeMethodes
+all
+	^self store.

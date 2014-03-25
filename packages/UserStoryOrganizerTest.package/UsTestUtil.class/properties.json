@@ -1,0 +1,14 @@
+{
+	"category" : "UserStoryOrganizerTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UsTestUtil",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

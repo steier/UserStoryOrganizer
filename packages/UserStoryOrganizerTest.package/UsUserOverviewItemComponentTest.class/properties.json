@@ -1,0 +1,16 @@
+{
+	"category" : "UserStoryOrganizerTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootComponent",
+		"user",
+		"item" ],
+	"name" : "UsUserOverviewItemComponentTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

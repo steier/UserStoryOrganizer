@@ -1,0 +1,14 @@
+{
+	"category" : "UserStoryOrganizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastId" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id" ],
+	"name" : "UsPersistentObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

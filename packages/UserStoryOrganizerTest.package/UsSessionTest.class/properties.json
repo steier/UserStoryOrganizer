@@ -1,0 +1,15 @@
+{
+	"category" : "UserStoryOrganizerTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"user" ],
+	"name" : "UsSessionTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

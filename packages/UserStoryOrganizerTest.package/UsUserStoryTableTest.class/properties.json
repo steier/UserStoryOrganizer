@@ -1,0 +1,18 @@
+{
+	"category" : "UserStoryOrganizerTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tableItemFactory",
+		"userStoryModelProvider",
+		"userStoryTableItem",
+		"htmlCanvas",
+		"someUserStoryModels" ],
+	"name" : "UsUserStoryTableTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

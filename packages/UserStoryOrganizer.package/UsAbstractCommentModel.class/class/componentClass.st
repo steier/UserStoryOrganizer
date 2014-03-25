@@ -1,0 +1,3 @@
+subclassing
+componentClass
+	^self subclassResponsibility.

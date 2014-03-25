@@ -1,0 +1,4 @@
+tests
+testNew
+	UsUserStoryModel new.
+	

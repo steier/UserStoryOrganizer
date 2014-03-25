@@ -1,0 +1,14 @@
+{
+	"category" : "UserStoryOrganizerInits",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "InitStories",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "UserStoryOrganizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UsCommentModel",
+	"pools" : [
+		 ],
+	"super" : "UsAbstractCommentModel",
+	"type" : "normal" }

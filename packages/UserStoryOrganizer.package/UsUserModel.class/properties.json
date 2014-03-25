@@ -1,0 +1,22 @@
+{
+	"category" : "UserStoryOrganizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BackupStore",
+		"Store" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastName",
+		"email",
+		"password",
+		"company",
+		"isAdministrator",
+		"isDeveloper",
+		"isCustomer",
+		"userName" ],
+	"name" : "UsUserModel",
+	"pools" : [
+		 ],
+	"super" : "UsPersistentObject",
+	"type" : "normal" }

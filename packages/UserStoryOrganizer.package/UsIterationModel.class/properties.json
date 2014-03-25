@@ -1,0 +1,20 @@
+{
+	"category" : "UserStoryOrganizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BackupStore",
+		"Store" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"focus",
+		"startDate",
+		"endDate",
+		"text",
+		"pointsAimed" ],
+	"name" : "UsIterationModel",
+	"pools" : [
+		 ],
+	"super" : "UsPersistentObject",
+	"type" : "normal" }

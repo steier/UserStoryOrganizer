@@ -1,0 +1,32 @@
+{
+	"category" : "UserStoryOrganizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BackupStore",
+		"Store" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"author",
+		"type",
+		"category",
+		"status",
+		"priority",
+		"points",
+		"date",
+		"deadline",
+		"endDate",
+		"estimatedTime",
+		"realTime",
+		"title",
+		"text",
+		"assignedTo",
+		"lastChanged",
+		"comment",
+		"timeComment",
+		"iteration" ],
+	"name" : "UsUserStoryModel",
+	"pools" : [
+		 ],
+	"super" : "UsPersistentObject",
+	"type" : "normal" }

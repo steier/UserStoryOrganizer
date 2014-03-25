@@ -1,0 +1,14 @@
+{
+	"category" : "UserStoryOrganizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"seconds" ],
+	"name" : "UsTimeCommentModel",
+	"pools" : [
+		 ],
+	"super" : "UsAbstractCommentModel",
+	"type" : "normal" }
